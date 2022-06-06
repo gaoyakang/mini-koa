@@ -4,9 +4,7 @@
 
 
 ## 1.上下文封装
-
-![未命名文件](/Users/gyk/Downloads/未命名文件.png)
+![](https://s3.bmp.ovh/imgs/2022/06/06/a88ae831ca504d81.png)
 
 ## 2.中间件封装
-
-![轮播图原理](/Users/gyk/Downloads/轮播图原理.png)
+![](https://s3.bmp.ovh/imgs/2022/06/06/6a8fad4ba86092eb.png)
